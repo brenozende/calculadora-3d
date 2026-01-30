@@ -1,0 +1,33 @@
+// energyCosts.js
+// Custo de energia por estado (R$ por kWh)
+
+export const ENERGY_COSTS = {
+  "National Average": 0.72,
+  AC: 0.82,
+  AL: 0.75,
+  AP: 0.70,
+  AM: 0.83,
+  BA: 0.78,
+  CE: 0.79,
+  DF: 0.68,
+  ES: 0.65,
+  GO: 0.72,
+  MA: 0.74,
+  MT: 0.80,
+  MS: 0.85,
+  MG: 0.75,
+  PA: 0.88,
+  PB: 0.72,
+  PR: 0.64,
+  PE: 0.77,
+  PI: 0.76,
+  RJ: 0.85,
+  RN: 0.73,
+  RS: 0.72,
+  RO: 0.78,
+  RR: 0.70,
+  SC: 0.62,
+  SP: 0.70,
+  SE: 0.75,
+  TO: 0.77,
+};

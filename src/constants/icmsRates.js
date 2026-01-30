@@ -1,0 +1,33 @@
+// icmsRates.js
+// Alíquotas de ICMS por estado (%)
+
+export const ICMS_RATES = {
+  "National Average": 18,
+  AC: 17,
+  AL: 19,
+  AP: 18,
+  AM: 18,
+  BA: 19,
+  CE: 18,
+  DF: 18,
+  ES: 17,
+  GO: 17,
+  MA: 20,
+  MT: 17,
+  MS: 17,
+  MG: 18,
+  PA: 17,
+  PB: 18,
+  PR: 19,
+  PE: 18,
+  PI: 18,
+  RJ: 20,
+  RN: 18,
+  RS: 17,
+  RO: 17,
+  RR: 17,
+  SC: 17,
+  SP: 18,
+  SE: 18,
+  TO: 18,
+};
